@@ -9,3 +9,9 @@
     height: 60px;
 }
 
+.nav-link:hover {
+    color: black;
+    background-color: #F7F7F7;
+    border-radius: 20px;
+    /* transition: all 0.3s ease-in-out; */
+}
